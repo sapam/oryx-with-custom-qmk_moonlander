@@ -13,4 +13,4 @@
 #define RGB_MATRIX_STARTUP_SPD 60
 
 // Adding Custom Delay of 300 ms between keypressed during Dynamic Macro Replay
-#define DYNAMIC_MACRO_DELAY 80
+#define DYNAMIC_MACRO_DELAY 40
